@@ -75,7 +75,7 @@ CI/CD • Containerization
 
 <img src="https://github-readme-stats.vercel.app/api?username=dubey233445&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dubey233445&theme=tokyonight"/>
 
 </p>
 
