@@ -85,7 +85,7 @@ CI/CD • Containerization
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubey233445&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -152,7 +152,7 @@ Greedy Algorithms
 ## 📊 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dubey233445&theme=tokyo-night"/>
 </p>
 
 ---
@@ -161,9 +161,9 @@ Greedy Algorithms
 
 📧 Email: [dubeyashish8957@gmail.com](mailto:dubeyashish8957@gmail.com)
 
-💻 GitHub: https://github.com/YOUR_USERNAME
+💻 GitHub: https://github.com/dubey233445
 
-🔗 LinkedIn: Add your LinkedIn link
+🔗 LinkedIn: https://www.linkedin.com/in/ashish-dubey-8904a52b3/
 
 🧠 LeetCode: Add your LeetCode link
 
