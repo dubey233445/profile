@@ -9,7 +9,7 @@ Computer Science Undergraduate (AI & ML) | Backend Developer | AI Engineer
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=dubey233445&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -84,9 +84,9 @@ CI/CD • Containerization
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dubey233445&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dubey233445&theme=tokyonight"/>
 
 </p>
 
@@ -96,7 +96,7 @@ CI/CD • Containerization
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubey233445&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -106,7 +106,7 @@ CI/CD • Containerization
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dubey233445&theme=onedark&row=1&column=6"/>
 
 </p>
 
@@ -116,7 +116,7 @@ CI/CD • Containerization
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dubey233445&theme=tokyo-night"/>
 
 </p>
 
@@ -196,9 +196,9 @@ Greedy Algorithms
 
 📧 Email: [dubeyashish8957@gmail.com](mailto:dubeyashish8957@gmail.com)
 
-💻 GitHub: https://github.com/YOUR_USERNAME
+💻 GitHub: https://github.com/dubey233445
 
-🔗 LinkedIn: Add your LinkedIn link
+🔗 LinkedIn: https://www.linkedin.com/in/ashish-dubey-8904a52b3/
 
 🧠 LeetCode: Add your LeetCode link
 
