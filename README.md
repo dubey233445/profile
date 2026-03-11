@@ -1,32 +1,42 @@
 <h1 align="center">Hi 👋, I'm Ashish Dubey</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Backend+Developer;Generative+AI+Builder;DSA+Problem+Solver;Building+Intelligent+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Engineer;Backend+Developer;Generative+AI+Builder;DSA+Problem+Solver;Building+Intelligent+Systems" />
 </p>
 
 <p align="center">
-AI/ML Engineer | Backend Developer | Problem Solver
+Computer Science Undergraduate (AI & ML) | Backend Developer | AI Engineer
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 B.Tech Computer Science (AI & ML)
-🤖 Passionate about Artificial Intelligence and Generative AI
-💻 Backend developer building scalable APIs
-🔐 Interested in security, system design, and intelligent platforms
+🎓 B.Tech Computer Science (AI & ML) Student
+
+🤖 Passionate about Artificial Intelligence, Machine Learning and Generative AI
+
+💻 Backend developer building scalable APIs and intelligent systems
+
+🔐 Interested in system design, secure software platforms and automation
+
 🧠 Solved **300+ DSA problems on LeetCode**
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Programming
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,r,cpp" />
+<img src="https://skillicons.dev/icons?i=python,java,js,cpp,r" />
 </p>
+
+---
 
 ### AI / Machine Learning
 
@@ -55,7 +65,8 @@ REST APIs • Authentication • Microservices
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 </p>
 
-Vector DB: FAISS • Pinecone
+Vector Databases:
+FAISS • Pinecone
 
 ---
 
@@ -69,75 +80,107 @@ CI/CD • Containerization
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dubey233445&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dubey233445&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 📈 Most Used Languages
+# 📈 Most Used Languages
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubey233445&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🏆 GitHub Achievements
 
-### 🔐 VaultGuard – Secure Digital Inheritance Platform
+<p align="center">
 
-Secure platform for storing sensitive documents with encrypted inheritance access.
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📊 Contribution Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🚀 Featured Projects
+
+## 🔐 VaultGuard – Secure Digital Inheritance Platform
+
+Secure digital vault for storing sensitive documents.
 
 Features:
+
 • AES-256 client-side encryption
 • Role-Based Access Control (RBAC)
 • JWT authentication
-• Secure document access workflow
-• Admin dashboard with audit logs
+• Nominee inheritance access system
+• Admin dashboard with audit logging
 
-Tech: React • TypeScript • Node.js • REST APIs
+Tech Stack:
+React • TypeScript • Node.js • REST APIs
 
 ---
 
-### ✋ ISL Gesture Recognition System
+## ✋ ISL Gesture Recognition System
 
 Real-time **Indian Sign Language recognition system**
 
 Features:
-• CNN + LSTM deep learning model
-• 90% gesture recognition accuracy
-• Real-time inference API
 
-Tech: TensorFlow • OpenCV • Flask
+• CNN + LSTM deep learning architecture
+• Achieved **90% accuracy**
+• Real-time gesture recognition API
+
+Tech:
+TensorFlow • OpenCV • Flask
 
 ---
 
-### 🌍 Travel Recommendation Chatbot (LLM + RAG)
+## 🌍 Travel Recommendation Chatbot (LLM + RAG)
 
 AI-powered travel assistant.
 
 Features:
+
 • Retrieval Augmented Generation
 • LangChain + OpenAI API
 • FAISS vector database
 • Semantic search for better responses
 
-Tech: FastAPI • LangChain • OpenAI API
+Tech:
+FastAPI • LangChain • OpenAI API
 
 ---
 
-## 🧠 Problem Solving
+# 🧠 Problem Solving
 
-Solved **300+ DSA problems on LeetCode**
+Solved **300+ problems on LeetCode**
 
 Topics covered:
 
@@ -149,24 +192,16 @@ Greedy Algorithms
 
 ---
 
-## 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dubey233445&theme=tokyo-night"/>
-</p>
-
----
-
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 📧 Email: [dubeyashish8957@gmail.com](mailto:dubeyashish8957@gmail.com)
 
-💻 GitHub: https://github.com/dubey233445
+💻 GitHub: https://github.com/YOUR_USERNAME
 
-🔗 LinkedIn: https://www.linkedin.com/in/ashish-dubey-8904a52b3/
+🔗 LinkedIn: Add your LinkedIn link
 
 🧠 LeetCode: Add your LeetCode link
 
 ---
 
-⭐ Building intelligent systems that solve real-world problems.
+⭐ *Building intelligent systems that solve real-world problems.*
